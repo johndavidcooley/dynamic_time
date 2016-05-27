@@ -1,0 +1,38 @@
+/* CSS Entry Point */
+
+// Turn on freq used libraries
+@import 'normalize-css/normalize';
+// @import 'font-awesome/scss/font-awesome';
+
+.body {
+	margin: 0;
+
+}
+
+
+.wrapper {
+	font-family: 'Lobster Two', Helvetica, sans-serif;
+	font-style: italic;
+
+}
+
+
+.time {
+	line-height: 600px;
+	text-align: center;
+	height: 600px;
+	background-color: black;
+	font-size: 75px;
+	color: white;
+}
+
+
+.color {
+	line-height: 600px;
+	text-align: center;
+	height: 600px;
+	font-size: 75px;
+	color: white;
+	background-color: var intID;
+
+}

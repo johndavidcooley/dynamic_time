@@ -1,0 +1,33 @@
+.body {
+	margin: 0;
+
+}
+
+
+.wrapper {
+	font-style: italic;
+
+}
+
+
+.time {
+	line-height: 600px;
+	text-align: center;
+	height: 600px;
+	background-color: black;
+	font-family: 'Lobster Two', Helvetica, sans-serif;
+	font-size: 75px;
+	color: white;
+}
+
+
+.color {
+	line-height: 600px;
+	text-align: center;
+	height: 600px;
+	font-family: 'Lobster Two', Helvetica, sans-serif;
+	font-size: 75px;
+	color: white;
+	background-color: var intID;
+
+}
